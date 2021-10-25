@@ -3,8 +3,6 @@
  *
  * @author Yueqiao Chen
  * @version 1.0
- * @userid ychen3221
- * @GTID 903531127
  *
  * Collaborators: N/A
  *
